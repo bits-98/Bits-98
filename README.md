@@ -22,7 +22,7 @@ Transformo processos manuais em automações que rodam sozinhas. Trabalho no San
 
 | Área | Tecnologias |
 |---|---|
-| Linguagens | Python (Pandas, Selenium, Flask, Django, Streamlit), SQL, VBA |
+| Linguagens | Python (Pandas, Selenium, Flask, Django, Streamlit), SQL, VBA, JavaScript, CSS, HTML, VBS, C, C++, C# |
 | Dados | Databricks, ETL/ELT, data pipelines |
 | Power Platform | Power Apps, Power Automate, Power BI, DAX |
 | Automação | RPA, automação web, integração com APIs |
